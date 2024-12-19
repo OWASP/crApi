@@ -107,7 +107,7 @@ $ cd deploy/vagrant && vagrant destroy
 For more deployment options visit [the setup instructions](docs/setup.md) for more details.
 ---
 
-To know more about challenges in crAPI. Visit [challenges]
+To know more about challenges in crAPI, visit [challenges].
 ----
 
 [challenges]: docs/challenges.md
@@ -117,4 +117,4 @@ To know more about challenges in crAPI. Visit [challenges]
 [virtualbox]: https://www.virtualbox.org/wiki/Downloads
 
 ## Troubleshooting guide for general issues while installing and running crAPI
-If you need any help with installing and running crAPI you can check out this guide: [Troubleshooting guide crAPI](https://github.com/OWASP/crAPI/blob/main/docs/troubleshooting.md). If this doesn't solve your problem, please create an issue in Github Issues.
+If you need any help with installing and running crAPI you can check out this guide: [Troubleshooting guide crAPI](https://github.com/OWASP/crAPI/blob/main/docs/troubleshooting.md). If this doesn't solve your problem, please create an issue in GitHub Issues.
