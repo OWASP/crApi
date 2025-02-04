@@ -14,7 +14,7 @@ sqlparse==0.2.4 #djongo-dependency
 psycopg2==2.9.9
 PyJWT==2.7.0
 pymongo==3.13.0
-pyOpenSSL==23.1.1
+pyOpenSSL==24.0.0
 requests==2.30.0
 Werkzeug==2.0.3
 Faker==22.1.0
