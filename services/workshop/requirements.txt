@@ -1,6 +1,6 @@
 bcrypt==4.1.2
-Django~=4.1.13
-cryptography==40.0.2
+Django~=4.2.16
+cryptography==43.0.1
 django-cors-headers==4.0.0
 django-db-cascade-2==0.3.5
 django-environ==0.10.0
